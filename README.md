@@ -9,6 +9,7 @@
 Bienvenue dans le Readme du projet tout le monde !
 Vous trouverez ici des ressources en **français** et en **anglais**.
 EDIT : Cette modification apparaîtra après la merge.
+Ceci est un hotfix !
 
 ---
 
